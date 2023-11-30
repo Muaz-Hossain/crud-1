@@ -1,2 +1,2 @@
-# CRUD-1
+# crud-1
 django crud project.
